@@ -1,0 +1,17 @@
+body {
+    background: url(/foto/fondo.jpg);
+    background-size: 100%;
+    }
+  div{
+      width:50%;
+      padding:100px;
+      margin:auto;
+      text-align: center;
+      color: white;
+      font-weight: bolder;
+      font-size: 30px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  div a{
+      color: rgb(20, 157, 236);
+  }
