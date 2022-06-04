@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+header{
+    background-color: #f6a6ff;
+    width:1000px ;
+    height: 300;
+    display: flex;
+}
+.box{
+    background-color: #FFFFD1;
+    width: 150px;
+    height: 30px;
+   padding: 25px;
+    margin: 10px;
+}
+
+nav{
+    background-color: #BFFCC6;
+    width:1000px ;
+    height: 100;
+    display: flex;
+}
+header{
+    background-color: #AFF8D8;
+    display: flex;
+    width: 1000px;
+    height: 300px;
+}
+main{
+    background-color: #6EB5FF;
+    width: 1000px;
+    height: 500px;
+    display: flex;
+
+
+}  
+footer{
+    background-color: #BFFCC6;
+    width: 1000px;
+    height: 50px;
+}
+.Banner{
+    background-color:#FFFFD1 ;
+    ;
+    width:800px ;
+    height: 225px;
+    padding: 25px;
+    margin: 10px;
+}
+.apartados{
+    background-color: #FFFFD1FF;
+    width:200px ;
+    height:35px ;
+    margin:12px ;
+    padding: 25px;
+}
+.aside{
+background-color: #FFFFD1;
+width: 200px;
+height: 460px;
+margin: 15px;
+padding: 5px;
+}
+.article{
+background-color:#FFFFD1 ;
+width: 500px;
+height: 460px;
+margin: 15px;
+padding: 5px;
+}
+.sobra{
+    background-color: #FFFFD1;
+    width:300px;
+    height: 460px;
+    margin: 15px;
+    padding: 5px;
+}
