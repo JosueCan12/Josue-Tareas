@@ -1,0 +1,16 @@
+body {
+  background: url(/fotos/fondo.jpg);
+  background-size: 100%;
+  }
+div{
+    width:50%;
+    padding:100px;
+    margin:auto;
+    text-align: center;
+    color: bisque;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div a{
+    color: aliceblue;
+}
